@@ -24,7 +24,7 @@ focusing on basic words: apple (苹果), dog (狗), water (水). Include repetit
 - Vocabulary correct  
 - Pinyin accurate  
 - Repetition supports memory retention  
-- Good alignment with 'learn + practice' teaching method  
+- Good alignment with '**learn + practice**' teaching method  
 
 ## Improvements
 - Add spaced repetition steps  
