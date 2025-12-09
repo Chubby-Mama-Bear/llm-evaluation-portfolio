@@ -1,9 +1,9 @@
-# Math Reasoning Prompt Experiment (K–5)
+# Mandarin Vocabulary Prompt Experiment (K–5)
 
 **Experiment metadata**  
 - Date: Example  
 - Context: beginner Mandarin vocabulary and repetition-based practice exercises  
-- Goal: Evaluate accuracy and clarity of reasoning for a 2nd-grade audience
+- Goal: Evaluate accuracy and clarity of reasoning for a Ages 6–9's audience
 
 # Mandarin Vocabulary Evaluation — Early Learners (Ages 6–9)
 
