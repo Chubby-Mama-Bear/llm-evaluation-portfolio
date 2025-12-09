@@ -1,3 +1,5 @@
+These rubrics are illustrative of my evaluation approach for K–5 content.
+
 # K–5 Content Evaluation Rubric
 
 | Criteria | Description |
