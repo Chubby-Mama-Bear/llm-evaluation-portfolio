@@ -1,3 +1,10 @@
+# Reading Comprehension Prompt Experiment (K–5)
+
+**Experiment metadata**  
+- Date: Example  
+- Context: early-elementary literacy standards  
+- Goal: LLM's ability to generate reading comprehension questions for a Grades 1–4's audience  
+
 # Reading Comprehension Evaluation (Grades 1–4)
 
 ## Objective
